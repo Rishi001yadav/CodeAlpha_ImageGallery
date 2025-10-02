@@ -25,11 +25,9 @@ CSS3 – for styling & responsiveness
 JavaScript (ES6) – for interactivity (lightbox, navigation)
 
 📸 Demo
-Live Demo Link (Add your deployed link here)
+Live Demo Link ()
 
 
 
 
 
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
