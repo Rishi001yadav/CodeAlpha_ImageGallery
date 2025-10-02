@@ -25,7 +25,7 @@ CSS3 – for styling & responsiveness
 JavaScript (ES6) – for interactivity (lightbox, navigation)
 
 📸 Demo
-Live Demo Link ()
+Live Demo Link (https://youtu.be/zEGPO6PHQU8?si=ehQ9QSgO3VNU4dxB)
 
 
 
