@@ -1,4 +1,4 @@
-# _ImageGallery
+# CodeAlpha_ImageGallery
 Here, you go for Demo.
  https://rishi001yadav.github.io/CodeAlpha_ImageGallery/
 
