@@ -2,27 +2,88 @@
 Here, you go for Demo.
  https://rishi001yadav.github.io/CodeAlpha_ImageGallery/
 
-Responsive Image Gallery
-This project is a Responsive Image Gallery built using HTML, CSS, and JavaScript.
-It features a modern design with smooth transitions, hover effects, and a lightbox view for better user experience. The gallery automatically adjusts to different screen sizes, making it mobile-friendly.
+# 🖼️ Responsive Image Gallery
 
-✨ Features
-📱 Fully responsive design for all screen sizes
+A modern and **fully responsive Image Gallery** built using **HTML5, CSS3, and JavaScript**. The project features a clean layout, smooth transitions, hover effects, and an interactive lightbox for viewing images.
 
-🎨 Clean layout with hover effects
+The gallery automatically adapts to different screen sizes, providing a smooth experience across **desktop, tablet, and mobile devices**.
 
-🔍 Lightbox view with next/previous navigation
+## ✨ Features
 
-🖼️ Smooth transitions and animations
+* 📱 Fully responsive design
+* 🎨 Clean and modern layout
+* 🖱️ Interactive hover effects
+* 🔍 Lightbox image preview
+* ⬅️➡️ Next and previous image navigation
+* ✨ Smooth transitions and animations
+* 🖼️ Easy to add or update images
+* 💻 Mobile-friendly interface
 
-📂 Easy to add or update images
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-HTML5 – for structure
+* **HTML5** — Used to create the structure and content of the gallery
+* **CSS3** — Used for styling, responsive design, layouts, hover effects, and animations
+* **JavaScript (ES6)** — Used to add interactivity, lightbox functionality, and image navigation
 
-CSS3 – for styling & responsiveness
+## 🔧 Tools Used
 
-JavaScript (ES6) – for interactivity (lightbox, navigation)
+* **VS Code / Text Editor** — For writing and editing the code
+* **Web Browser** — For running, testing, and previewing the project
+* **HTML5, CSS3 & JavaScript** — Core technologies used to build the project
+
+## 📂 Project Structure
+
+```text
+Responsive-Image-Gallery/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
+│
+└── README.md
+```
+
+## 🎯 Purpose
+
+The main purpose of this project is to practice **frontend web development** by creating a responsive and interactive image gallery.
+
+Through this project, I practiced:
+
+* HTML page structure
+* CSS layouts and responsiveness
+* Flexbox/Grid concepts
+* Hover effects and transitions
+* JavaScript DOM manipulation
+* Event handling
+* Interactive image viewing
+
+## 📱 Responsive Design
+
+The gallery is designed to adapt its layout according to the screen size, making it suitable for:
+
+* 💻 Desktop
+* 📱 Mobile
+* 📟 Tablet
+
+## 🚀 Future Improvements
+
+* Add image categories and filtering
+* Add search functionality
+* Add image captions
+* Add dark/light mode
+* Add image zoom functionality
+* Add more advanced animations
+
+## 👨‍💻 Author
+
+**Rishi Raj Yadav**
+
+> A frontend project created to practice responsive web design, CSS styling, and JavaScript interactivity.
+
 
 📸 Demo
 Live Demo Link (https://youtu.be/zEGPO6PHQU8?si=ehQ9QSgO3VNU4dxB)
